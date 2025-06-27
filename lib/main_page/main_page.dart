@@ -180,6 +180,19 @@ class _MainPageState extends State<MainPage> {
                         ),
                       ),
                     ),
+                    ListTile(
+                      onTap: () {},
+                      leading: Icon(Icons.shop),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+                      title: Text(
+                        'Clientes',
+                        style: TextStyle(
+                          fontWeight: FontWeight.w600,
+                          fontSize: 13,
+                          color: TextTheme.of(context).bodyMedium!.color,
+                        ),
+                      ),
+                    ),
                   ],
                 ),
               ),
