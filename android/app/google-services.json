@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329652306210",
+    "project_id": "nakombi-4d4c7",
+    "storage_bucket": "nakombi-4d4c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329652306210:android:4a2d0b203a1c6c20eda57b",
+        "android_client_info": {
+          "package_name": "com.example.nakombi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329652306210-kuke53td0e0qc12eh8huubadaldan0q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALLlyEa6T8lHn_WOsSj6eS0FGqsWftQnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329652306210-kuke53td0e0qc12eh8huubadaldan0q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
